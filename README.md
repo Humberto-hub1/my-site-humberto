@@ -8,5 +8,5 @@ English:
   This is my first project done, in which it was used HTML and CSS.
   It's a blog simulation, demonstrating who I am and means of contact.
   
-Obrigado ela a atenção e visita! 
+Obrigado pela a atenção e visita! 
 (Thank you for your attention and visit!) (. ❛ ᴗ ❛.)
